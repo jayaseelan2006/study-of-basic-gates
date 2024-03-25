@@ -1,3 +1,5 @@
+ # Developed by: Jayaseelan.U
+ # RegisterNumber: 212223220039
 ### study-of-basic-gates
 
 **AIM:** 
@@ -64,15 +66,21 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+<img width="186" alt="program" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/21cc51be-41ca-46d0-bde2-92168c4d55f0">
 
- Developed by: RegisterNumber: 
+Program for logic gates and verify its truth table in quartus using Verilog programming
  
-**Logic symbol & Truthtable**
+**Logic symbol 
+<img width="228" alt="logic symbol" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/5ce537c2-4895-4141-81af-79e5f724fcd3">
+
+Truthtable**
+<img width="767" alt="truth table" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/56229c29-deab-4c08-adc6-cd30c4739623">
 
 **RTL realization Output:** 
+<img width="832" alt="RTL" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/2a13b84b-420c-4996-8768-4f6e6b863bbf">
 
-**RTL**
+
+
 
 **Result:**
 
