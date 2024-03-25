@@ -64,27 +64,28 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+# PROGRAM:
 
 
 <img width="186" alt="program" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/21cc51be-41ca-46d0-bde2-92168c4d55f0">
 
  
-**Logic symbol 
+# Logic symbol: 
 
 <img width="228" alt="logic symbol" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/5ce537c2-4895-4141-81af-79e5f724fcd3">
 
-Truthtable**
+# Truthtable:
 
 <img width="767" alt="truth table" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/56229c29-deab-4c08-adc6-cd30c4739623">
 
-**RTL realization Output:**
+# RTL realization Output:
 
 <img width="832" alt="RTL" src="https://github.com/jayaseelan2006/study-of-basic-gates/assets/151389443/2a13b84b-420c-4996-8768-4f6e6b863bbf">
 
 
 
 
-**Result:**
+# Result:
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
